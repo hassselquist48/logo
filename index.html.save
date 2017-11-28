@@ -1,0 +1,29 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>logo</title>
+</head>
+
+<body>
+
+<h1>My First javascript animations</h1>
+
+<div id="animations">My animations will go here</div>
+
+<script>
+<var o = document.getElementById("myCanvas");>
+<var ctx = o.getContext("2d");
+ctx.moveTo"(0,0)";
+ctx.lineTo (200,100);
+ctx.stroke();
+*/
+
+/*text
+ctx.font = "30px Comic sans NS, Arial";
+ctx.filltext("Hello world",10,50);
+*/
+
+/*
+
+</body>
+</html>
